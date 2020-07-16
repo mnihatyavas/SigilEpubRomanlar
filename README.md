@@ -2,13 +2,13 @@ Tüm html epub romanları için geliştirğim kendime özgü kısa fakat etkili 
 
 /*---------------------------------------------------------------------------------------------------*/
 .çerçeve {
-  background: #ddd; /* zemin çok açık gri */
-  color: ; /* #444hafif açık siyah */
-  text-indent: 1.5em;  /* paragrafın ilk satırı içerden */
-  border: black solid thin; /* kenar çizgili çerçeve thin/thick */
-  padding: 0.5em; /* çerçeve içi kenar tamponları */
-  margin: 1.0em 1.0em; /* boşluk(üst-alt sol-sağ) */
-  box-shadow: 5px 5px 25px 10px #fff; /* çerçeve gölgeliği */
+  background: #ddd;
+  color: ;
+  text-indent: 1.5em;
+  border: black solid thin;
+  padding: 0.5em;
+  margin: 1.0em 1.0em;
+  box-shadow: 5px 5px 25px 10px #fff;
 }
 
 p{display:block; margin:8px; line-height:1.1em; text-indent:1.5em;}
