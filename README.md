@@ -1,5 +1,6 @@
 Tüm html epub romanları için geliştirğim kendime özgü kısa fakat etkili CSS ayarlarını sunuyorum:
 
+
 /*---------------------------------------------------------------------------------------------------*/
 .çerçeve {
     background: #ddd; /* zemin çok açık gri */
@@ -63,6 +64,7 @@ body {
     padding: 1.5em 0.5em;
     max-width:55em;}
 /*---------------------------------------------------------------------------------------------------*/
+
 NOT: (5-10-20-50-100 TL) gönlünüzden kopacak bağışlarınızı qnbfinansbank.enpara.com'daki TR73.0011.1000.0000.0038.1715.07 no'lu cari hesabıma eft gönderirseniz, beni teşvikler ve sevindirirsiniz.
 
 
