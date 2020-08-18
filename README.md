@@ -1,14 +1,23 @@
 Tüm html epub romanları için geliştirğim kendime özgü kısa fakat etkili CSS ayarlarını sunuyorum:
 
 /*---------------------------------------------------------------------------------------------------*/
+
 .çerçeve {
+
     background: #ddd; /* zemin çok açık gri */
+    
     /*color: #444 hafif açık siyah */
+    
     text-indent: 1.5em;  /* paragrafın ilk satırı içerden */
+    
     border: black solid thin; /* kenar çizgili çerçeve thin/thick */
+    
     padding: 0.5em; /* çerçeve içi kenar tamponları */
+    
     margin: 1.0em 1.0em; /* boşluk(üst-alt sol-sağ) */
+    
     box-shadow: 5px 5px 25px 10px #fff;} /* çerçeve gölgeliği */
+    
 p {
     display:block;
     margin:8px;
