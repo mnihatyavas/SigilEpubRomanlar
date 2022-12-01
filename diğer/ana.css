@@ -1,0 +1,70 @@
+/*---------------------------------------------------------------------------------*/
+* {box-sizing: border-box;}
+html {background:#222 fixed;}
+body {
+    background-color:#aaa;
+    color:#000;
+    font-family:Georgia, serif;
+    text-align:justify;
+    box-shadow: 5px 5px 25px 10px #888;
+    margin:1em auto;
+    padding: 1.5em 0.5em;
+    max-width:93%;}
+h1 {text-align: center;}
+h2 {
+    margin: 5em 0 2.5em  0;
+    text-align:center;
+    text-decoration: underline;} /* overline, underline, line-through,  underline overline; */
+h4 {text-align: right; margin: 0;}
+@font-face {
+    font-family: "TR GALLERIA";
+    font-weight: normal;
+    font-style: normal;
+    src: url(../Fonts/TR%20GALLERIA.TTF);}
+p {
+    display:block;
+    margin:8px;
+    font-size:1.1em;
+    line-height:1.1em;
+    text-indent:1.5em;}
+p:nth-of-type(1)::first-line {font-variant:small-caps;} /* text-transform: uppercase */
+p:nth-of-type(1)::first-letter {/* all: unset; yada <p></p>*/
+    text-align:justify;
+    text-indent:0em;
+    font-size:2.5em;
+    font-weight: bold;
+    font-family:TR Galleria;
+    margin-top: -17px;}
+.çerçeve {
+    background: #ccc;
+    text-indent: 1.5em;
+    border: black solid thin;
+    padding: 0.5em;
+    margin: 1.0em 1.0em;
+    box-shadow: 5px 5px 25px 10px #fff;}
+blockquote, .korbel {font-family: corbel;}
+.elyazýsý {
+    font-family: segoe script; /* segoe print */
+    font-size:1.15em;}
+.dipnot {
+    text-align:justify;
+    text-indent:0em;
+    margin-top:1em;
+    margin-bottom:1em;
+    margin-left:1.5em;
+    font-size:0.8em;
+    font-family:Verdana;}
+.þerh {font-family: verdana; font-size: 0.6em; font-weight: bold; color: #555;}
+.kahve {
+    font-family:arial;
+    font-size:17.4px;
+    font-weight: 800;
+    color: #430;
+    font-style:italic;}
+p .kahve {font-size: 17.4px;}
+.yeþil, i, em, .mavi {font-style: italic; color: #242; font-size: 0.95em; font-weight: 700;}
+em, .mavi {color: #224;}
+.yeþil, .mavi {font-size: 1.05em;}
+.kara, b {font-family:arial black; color: #444; font-size: 1em; font-weight: bold; font-style: italic;}
+ul, ol {font-size:1.1em; font-family: mono; color: #330; padding:0 0 0 55px; opacity: 0.7;}
+/*---------------------------------------------------------------------------------*/
