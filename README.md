@@ -2,7 +2,7 @@ Bu sayfada özellikle ana.css (diğer klasöründeki) sayfasındaki kendime özg
 
 "Diğer" klasörüne birer adet ham ve işlenmiş epub-roman koyuyorum; CSS kodlama sihrini idrak edebilesiniz diye.
 
-Sigil, sürüm-9.01 sonrası F2 tuşunu iptal edip, bir bakıma kolay-müdahelesiz PDF okuyucusuna benzedi. Bu yüzden "diğer" klasöre Sigil-0.9.14-install'u koymaya çalıştım ama 54MB ebatlı olduğundan reddedildi; ben Sigil'in böylesini ve windows'un sürüm-7'sini (sonrasındaysa Linux -debia, ubuntu veya fedora-) seviyorum.
+Sigil, sürüm-0.9.14 sonrası F2 tuşunu iptal edip, bir bakıma kolay-müdahelesiz PDF okuyucusuna benzedi. Bu yüzden "diğer" klasöre Sigil-0.9.14-install'u koymaya çalıştım ama 54MB ebatlı olduğundan reddedildi; ben Sigil'in böylesini ve windows'un sürüm-7'sini (sonrasındaysa Linux -debia, ubuntu veya fedora-) seviyorum.
 
 Hoşça vakit geçirmenizi dilerim.
 
