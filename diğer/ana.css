@@ -35,7 +35,7 @@ p:nth-of-type(1)::first-letter {/* all: unset; yada <p></p>*/
     font-weight: bold;
     font-family:TR Galleria;
     margin-top: -17px;}
-.Ã§erÃ§eve {
+.çerçeve {
     background: #ccc;
     text-indent: 1.5em;
     border: black solid thin;
@@ -43,7 +43,7 @@ p:nth-of-type(1)::first-letter {/* all: unset; yada <p></p>*/
     margin: 1.0em 1.0em;
     box-shadow: 5px 5px 25px 10px #fff;}
 blockquote, .korbel {font-family: corbel;}
-.elyazÄ±sÄ± {
+.elyazýsý {
     font-family: segoe script; /* segoe print */
     font-size:1.15em;}
 .dipnot {
@@ -54,17 +54,18 @@ blockquote, .korbel {font-family: corbel;}
     margin-left:1.5em;
     font-size:0.8em;
     font-family:Verdana;}
-.ÅŸerh {font-family: verdana; font-size: 0.6em; font-weight: bold; color: #555;}
+.þerh {font-family: verdana; font-size: 0.6em; font-weight: bold; color: #555;}
 .kahve {
     font-family:arial;
-    font-size:17.5px;
+    font-size:17.4px;
     font-weight: 800;
     color: #430;
     font-style:italic;}
-p .kahve {font-size: 17.5px;}
-.yeÅŸil, i, em, .mavi {font-style: italic; color: #242; font-size: 0.95em; font-weight: 700;}
+p .kahve {font-size: 17.4px;}
+.yeþil, i, em, .mavi {font-style: italic; color: #242; font-size: 0.95em; font-weight: 700;}
 em, .mavi {color: #224;}
-.yeÅŸil, .mavi {font-size: 1.05em;}
+.yeþil, .mavi {font-size: 1.05em;}
 .kara, b {font-family:arial black; color: #444; font-size: 1em; font-weight: bold; font-style: italic;}
 ul, ol {font-size:1.05em; font-family: mono; color: #330; padding:0 0 0 55px; opacity: 0.7;}
+.silik {opacity: 0.3; color: red;}
 /*---------------------------------------------------------------------------------*/
