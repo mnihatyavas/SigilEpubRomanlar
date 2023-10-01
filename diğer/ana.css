@@ -66,6 +66,7 @@ p .kahve {font-size: 17.4px;}
 .yeþil, i, em, .mavi {font-style: italic; color: #242; font-size: 0.95em; font-weight: 700;}
 em, .mavi {color: #224;}
 .yeþil, .mavi {font-size: 1.05em;}
+.kahve p, .yeþil p, .mavi p, p .mavi, p .kahve, p .yeþil {font-size: 17px;}
 .kara, b {font-family:arial black; color: #444; font-size: 1em; font-weight: bold; font-style: italic;}
 ul, ol {font-size:1.05em; font-family: mono; color: #330; padding:0 0 0 55px; opacity: 0.95;}
 .silik {opacity: 0.3; color: red;}
