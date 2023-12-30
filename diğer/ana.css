@@ -46,7 +46,7 @@ blockquote {font-family: corbel;}
 .rüya {background-color: #888; padding: 2px; border: white dashed thin;}
 .elyazýsý {
     font-family: segoe script; /* segoe print */
-    font-size:1.15em;}
+    font-size:1.0em;}
 .dipnot {
     text-align:justify;
     text-indent:0em;
@@ -73,4 +73,5 @@ ul, ol {font-size:1.05em; font-family: mono; color: #330; padding:0 0 0 55px; op
 .koyu {font-weight: bold;}
 .kutu-gölgesi {box-shadow: 5px 5px #555; border: black solid thin;}
 .metin-gölgesi {text-shadow: 5px 5px #888;}
+.karala {text-decoration: line-through underline overline;}
 /*---------------------------------------------------------*/
