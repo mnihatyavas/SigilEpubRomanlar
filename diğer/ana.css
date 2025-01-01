@@ -1,4 +1,4 @@
-/*---------------------------------------------------------*/
+/* <div class="çerçeve kahve" style="background-color: #bbb; margin: 1em 2em;"><p></p> */
 * {box-sizing: border-box;}
 html {background:#222 fixed;}
 body {
@@ -29,7 +29,7 @@ p {
     line-height:1.1em;
     text-indent:1.5em;}
 p:nth-of-type(1)::first-line {font-variant:small-caps;} /* text-transform: uppercase */
-p:nth-of-type(1)::first-letter {/* all: unset; yada <p></p>*/
+.ilkharf, p:nth-of-type(1)::first-letter {/* all: unset; yada <p></p>*/
     text-align:justify;
     text-indent:0em;
     font-size:2.5em;
@@ -74,4 +74,7 @@ ul, ol {font-size:1.05em; font-family: mono; color: #330; padding:0 0 0 55px; op
 .kutu-gölgesi {box-shadow: 5px 5px #555; border: black solid thin;}
 .metin-gölgesi {text-shadow: 5px 5px #888;}
 .karala {text-decoration: line-through underline overline;}
-/*---------------------------------------------------------*/
+caption {padding: 10px; margin-bottom: 5px; font-size:1.5em; border: 5px solid rgb(255,120,70); color: Magenta; background-color:#666;}
+table {width: 80%; border-collapse: collapse; border: 4px solid rgb(200,200,200); letter-spacing: 1px; font-size: 85%; background-color: #bd8; color: Navy;}
+th, td {border: 2px solid rgb(49,190,255); padding: 2px;}
+th {background-color: Khaki;}
