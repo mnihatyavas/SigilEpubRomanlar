@@ -58,14 +58,15 @@ blockquote {font-family: corbel; background-color:#999; padding:0.5em; font-size
     font-size: 0.8em;
     font-family: Verdana;}
 .þerh {font-family: verdana; font-size: 0.6em; font-weight: bold; color: #555;}
-.yeþil, i, .mavi, em, .sarý, .kahve {font-style: italic; font-weight: 700;}
+.yeþil, i, .mavi, em, .sarý, .kahve, .briket {font-style: italic; font-weight: 700;}
 i, .yeþil {color: #242;}
 em, .mavi {color: #224;}
 .kahve {color: #430;}
 .sarý {color: #cc0;} /* pink; */
-.kahve p, p .kahve, .yeþil p, p .yeþil, .mavi p, p .mavi, .sarý p, p .sarý {font-size: 1em;}
+.briket {color: #620;}
+.kahve p, p .kahve, .yeþil p, p .yeþil, .mavi p, p .mavi, .sarý p, p .sarý, .briket p, p .briket {font-size: 1em;}
 .kara, b {font-family:arial black; color: #444; font-size: 1em; font-weight: bold; font-style: italic;}
-ul, ol {font-size:1.05em; font-family: mono; color: #330; padding:0 0 0 55px; opacity: 0.95;}
+ul, ol {font-size:1.05em; font-family: mono; color: #330; padding-left: 55px; margin-left: -30px; opacity: 0.95;}
 .silik {opacity: 0.3; color: red;}
 .koyu {font-weight: bold; font-family: arial;}
 .kutu-gölgesi {box-shadow: 5px 5px #555; border: black solid thin;}
