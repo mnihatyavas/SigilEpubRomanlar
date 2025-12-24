@@ -1,8 +1,7 @@
 /* <div class="çerçeve kahve" style="background-color: #bbb; margin: 1em 2em;"><p></p> */
 * {box-sizing: border-box;}
 html {background:#222 fixed;}
-body {
-    background-color:#aaa;
+body {background-color:#aaa;
     color:#000;
     font-family:Georgia, serif;
     text-align:justify;
@@ -11,19 +10,16 @@ body {
     padding: 1.5em 0.5em;
     max-width:93%;}
 h1 {text-align: center;}
-h2 {
-    margin: 5em 0 2.5em  0;
+h2 {margin: 5em 0 2.5em  0;
     text-align:center;
     text-decoration: underline;} /* overline, underline, line-through,  underline overline; */
 h3 {text-indent:0;}
 h4 {text-align: right; margin: 0; font-size: 17px;}
-@font-face {
-    font-family: "TR GALLERIA";
+@font-face {font-family: "TR GALLERIA";
     font-weight: normal;
     font-style: normal;
     src: url(../Fonts/TR%20GALLERIA.TTF);}
-p {
-    display:block;
+p {display:block;
     margin:8px;
     font-size:1.1em;
     line-height:1.1em;
@@ -36,8 +32,7 @@ p:nth-of-type(1)::first-line {font-variant:small-caps;} /* text-transform: upper
     font-weight: normal;
     font-family:TR Galleria;
     margin-top: -17px;}
-.çerçeve {
-    background-color: #ccc;
+.çerçeve {background-color: #ccc;
     text-indent: 1.5em;
     border: black solid thin;
     padding: 0.5em;
@@ -45,29 +40,27 @@ p:nth-of-type(1)::first-line {font-variant:small-caps;} /* text-transform: upper
     box-shadow: 5px 5px 25px 10px #fff;}
 blockquote {font-family: corbel; background-color:#999; padding:0.5em; font-size: 1.1em;}
 .rüya, .rüyet {border: white dashed thin;}
-.elyazýsý {
-    font-family: segoe script; /* segoe print */
+.elyazýsý {font-family: segoe script; /* segoe print */
     font-size: 1em;
     font-weight: bold;}
-.dipnot {
-    text-align: justify;
+.dipnot {text-align: justify;
     text-indent: 0em;
     margin-top: 1em;
     margin-bottom: 1em;
     margin-left: 1.5em;
     font-size: 0.8em;
     font-family: Verdana;}
-.þerh {font-family: verdana; font-size: 0.6em; font-weight: bold; color: #555;}
+.þerh {font-family: verdana; font-size: 0.6em; font-weight: bold; color: #555; line-height: 1.1em;}
 .yeþil, i, .mavi, em, .sarý, .kahve, .briket {font-style: italic; font-weight: 700;}
 i, .yeþil {color: #242;}
 em, .mavi {color: #224;}
 .kahve {color: #430;}
 .sarý {color: #cc0;} /* pink; */
 .briket {color: #620;}
-.kahve p, p .kahve, .yeþil p, p .yeþil, .mavi p, p .mavi, .sarý p, p .sarý, .briket p, p .briket {font-size: 1em;}
+.kahve p, p .kahve, .yeþil p, p .yeþil, p i, .mavi p, p .mavi, p em, .sarý p, p .sarý, .briket p, p .briket {font-size: 0.9em;}
 .kara, b {font-family:arial black; color: #444; font-size: 1em; font-weight: bold; font-style: italic;}
 ul, ol {font-size:1.05em; font-family: mono; color: #330; padding-leftt: 55px; margin-left: 20px; opacity: 0.95;}
-.silik {opacity: 0.3; color: red;}
+.silik {opacity: 0.3; color: red; line-height: 1.1em;}
 .koyu {font-weight: bold; font-family: arial;}
 .kutu-gölgesi {box-shadow: 5px 5px #555; border: black solid thin;}
 .metin-gölgesi {text-shadow: 5px 5px #888;}
